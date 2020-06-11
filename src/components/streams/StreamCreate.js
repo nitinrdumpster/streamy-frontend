@@ -2,7 +2,6 @@ import React from "react";
 import { connect } from "react-redux";
 import { createStream } from "../../actions"
 import StreamForm from "./StreamForm";
-import StreamDelete from "./StreamDelete";
 
 class StreamCreate extends React.Component {
 
